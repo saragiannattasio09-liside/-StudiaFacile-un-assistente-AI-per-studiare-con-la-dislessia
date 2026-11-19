@@ -83,7 +83,8 @@ Ho provato l'agente con input difficili, anche su materie di indirizzo. Qui sott
 ## Demo
 
 Video della dimostrazione: https://drive.google.com/file/d/1eLrM12cj1_yO9EhCzx3AmKiH8NDWURqv/view?usp=sharing
-https://drive.google.com/file/d/1wJFHkuAb-K-H-kPnoBb0pRnAKl-wi-uW/view?usp=drive_link
+
+https://drive.google.com/file/d/1wJFHkuAb-K-H-kPnoBb0pRnAKl-wi-uW/view?usp=sharing
 
 ## Revisione etica
 
