@@ -2,7 +2,7 @@
 
 Un agente AI che aiuta gli studenti di scuola superiore con dislessia a studiare testi lunghi di storia, scienze e materie di indirizzo.
 
-**Autore/Squadra:** Sara Giannattasio - Nevergiveup
+**Autore/Squadra:** Sara Giannattasio, Rosaria Nigro, Desirè Melucci, Lucia Basile- Nevergiveup
 **Corso:** Percorso istituti superiori, Biotecnologie e Intelligenza Artificiale (bioERGOtech)
 
 ## 1. Il problema
